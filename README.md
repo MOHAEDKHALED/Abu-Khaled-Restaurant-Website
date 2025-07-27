@@ -7,12 +7,18 @@ The Abu Khaled Restaurant Website is a responsive web application showcasing a M
 ## Features
 - **Homepage (`index.html`)**: Displays a hero banner with a call-to-action to explore the menu and showcases signature dishes with images, prices, and links to detailed pages.
 - **Menu Page (`products.html`)**: Lists all available food items (main dishes, sides, and desserts) with images, prices, and links to individual product details.
+- <img width="1918" height="855" alt="image" src="https://github.com/user-attachments/assets/3abe6596-ec80-40e3-830a-2ebe74d1bcff" />
+
 - **Product Details Pages (`ProductsDetails1.html` to `ProductsDetails8.html`)**: Provide in-depth information about each dish, including a main image, thumbnail gallery, detailed description, price, and an "Add to Cart" button.
 - **About Page (`about.html`)**: Shares the restaurant’s story, emphasizing its dedication to Gulf culinary traditions.
+- <img width="1913" height="857" alt="image" src="https://github.com/user-attachments/assets/b6821591-bfb3-48b4-a783-cb62476cc392" />
 - **Cart Page (`cart.html`)**: Displays selected items with product details, quantities, totals, and a checkout option (static implementation; requires JavaScript for full functionality).
+- <img width="1918" height="875" alt="image" src="https://github.com/user-attachments/assets/e066cc96-a543-4c4d-9a2f-52988bdfbfd3" />
+
 - **Contact Page (`contact.html`)**: Offers a form for users to send inquiries (static; requires backend integration for submission).
 - **Responsive Design**: Adapts to various screen sizes, ensuring accessibility on desktops, tablets, and mobile devices.
 - **Consistent Styling**: Uses a cohesive color scheme (sandy beige, deep red, gold accents) and Arabic-inspired typography (`Amiri` font) to reflect Gulf heritage.
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/0d3f524a-dafb-45e8-8eb8-97d1149d45b2" />
 
 ## Project Structure
 ```
@@ -133,4 +139,4 @@ The menu features 8 dishes, each with a dedicated details page:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For inquiries, contact the Abu Khaled team via the [Contact Page](contact.html) or email [support@abukhaled.com](mailto:support@abukhaled.com).
+For inquiries, contact the Abu Khaled team via the [Contact Page](contact.html) or email [mohamedkhaledidris@gmail.com](mailto:mohamedkhaledidris@gmail.com).
